@@ -1,3 +1,6 @@
 [submodule "testsub"]
 	path = testsub
 	url = https://git.overleaf.com/605129d970e39a1c5d642eae
+[submodule "githubsub"]
+	path = githubsub
+	url = https://github.com/brittany/gitsubtest 
